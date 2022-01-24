@@ -40,6 +40,6 @@ class AlphabetGuess{
 class AlphabetGuesser{
 	public static void main(String args[]){
 		AlphabetGuess assign = new AlphabetGuess();
-		AlphabetGuess.checkChar();
+		assign.checkChar();
 	}
 }
